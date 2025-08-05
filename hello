@@ -3,7 +3,7 @@ public class hello{
     System.out.plantln("hello neusoft!!!");
   }
   public static void main(String[] args){
-    hello tt = new hello;
+    hello tt = new hello();
     hello.test.
   }
 }
